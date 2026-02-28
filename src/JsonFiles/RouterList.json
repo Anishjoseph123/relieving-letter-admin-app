@@ -1,0 +1,30 @@
+[
+  {
+    "MenuName": "DashBoard",
+    "MenuICon": "mdi-view-dashboard",
+    "MenuRoute": "Organizations",
+    "has_child_routes": false,
+    "active": true
+  },
+  {
+    "MenuName": "Users",
+    "MenuICon": "mdi-account",
+    "MenuRoute": "UsersList",
+    "has_child_routes": false,
+    "active": false
+  },
+  {
+    "MenuName": "Organization Info",
+    "MenuICon": "mdi-information",
+    "MenuRoute": "TemplatesList",
+    "has_child_routes": false,
+    "active": false
+  },
+  {
+    "MenuName": "My Profile",
+    "MenuICon": "mdi-account",
+    "MenuRoute": "Settings",
+    "has_child_routes": false,
+    "active": false
+  }
+]
